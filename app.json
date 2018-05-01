@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "SmsEasy-Twilio",
+    "version": "1.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "io.hasura.reactnative.auth"
+    },
+    "android": {
+      "package": "io.hasura.reactnative.auth"
+    }
+  }
+}
